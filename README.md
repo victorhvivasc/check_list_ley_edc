@@ -28,5 +28,5 @@ Desarrollo de app para gestión de la ley de economia del conocimiento
 ##### 1.- El archivo check_list_ui.py nace del archivo check_list.ui por lo cual se recomienda 
 ##### conservar ambos juntos para facilitar el desarrollo.  
 ##### 2.- El archivo listas.py contiene los datos de configuración de la apicación.
-##### 3.- El archivo ventana_ui.py es el archivo "main".
+##### 3.- El archivo app.py es el archivo "main".
 ##### 4.- Se recomienda crear un entorno virtual nuevo con python 3.7 y ejecutar pip install -r requirements.txt para igualar el entorno de desarrollo
