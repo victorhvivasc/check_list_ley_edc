@@ -1,6 +1,9 @@
 # check_list_ley_edc
 Desarrollo de app para gestión de la ley de economia del conocimiento
 
+## Python 3.7.8
+## Desarrollado usando las herramientas pyqt5 en QT designer
+
 ## En la carpeta dist estan los archivos ejecutables tanto para Windows como para linux
 
 ### El correcto uso de la aplicación se logrará completando todos los campos.
@@ -26,3 +29,4 @@ Desarrollo de app para gestión de la ley de economia del conocimiento
 ##### conservar ambos juntos para facilitar el desarrollo.  
 ##### 2.- El archivo listas.py contiene los datos de configuración de la apicación.
 ##### 3.- El archivo ventana_ui.py es el archivo "main".
+##### 4.- Se recomienda crear un entorno virtual nuevo con python 3.7 y ejecutar pip install -r requirements.txt para igualar el entorno de desarrollo
