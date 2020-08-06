@@ -6,8 +6,8 @@ Desarrollo de app para gestión de la ley de economia del conocimiento
 
 ## En la carpeta dist estan los archivos ejecutables tanto para Windows como para linux
 ## Cada uno tiene una carpeta con el contenido original para que puedan editarlo a gusto, si 
-## necesitan ver el trabajo de los demas haganlo directo en la web y no en los archivos que 
-## vean en su pc para evitar daños a los demas.
+## necesitan ver el trabajo de los demas haganlo directo en la web  
+## no en los archivos que vean en su pc para evitar daños a los demas.
 
 
 ### El correcto uso de la aplicación se logrará completando todos los campos.
