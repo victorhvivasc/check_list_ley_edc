@@ -1,0 +1,10 @@
+﻿#Python 3.7.8
+
+numpy ==1.19.0
+pandas == 1.0.5
+PyInstaller == 3.6
+PyQt5 == 5.15.0
+PyQt5-sip == 12.8.0
+pyqt5-tools == 5.15.0.1.7
+PyQtChart == 5.12
+PyQtWebEngine == 5.12.1
